@@ -1,1 +1,1 @@
-# elasticObservabilitylab
+# Elastic Observability lab
